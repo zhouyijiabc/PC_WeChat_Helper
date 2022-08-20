@@ -1,0 +1,108 @@
+2022-08-19 23:38:39.399 main.py[8] <module> -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-19 23:39:10.844 main.py[8] <module> -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-19 23:44:41.520 main.py[8] <module> -> Find Control Timeout(10s): {Name: '会话', ControlType: ListControl}
+2022-08-19 23:46:49.245 main.py[8] <module> -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-19 23:48:23.750 main.py[8] <module> -> Find Control Timeout(10s): {Name: '会话', ControlType: ListControl}
+2022-08-19 23:51:20.091 main.py[8] <module> -> Find Control Timeout(10s): {Name: '会话', ControlType: ListControl}
+2022-08-19 23:54:29.485 main.py[8] <module> -> Find Control Timeout(10s): {Name: '会话', ControlType: ListControl}
+2022-08-20 17:08:28.538 main.py[8] <module> -> Find Control Timeout(10s): {Name: '会话', ControlType: ListItemControl}
+2022-08-20 17:08:50.309 main.py[8] <module> -> Find Control Timeout(10s): {Name: '消息', ControlType: ListItemControl}
+2022-08-20 17:38:17.010 120362196.py[8] <cell line: 8> -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-20 17:38:28.389 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-20 17:38:38.511 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '微信', ClassName: 'WechatMainWndForPC', ControlType: WindowControl}
+2022-08-20 17:39:22.278 1388637405.py[8] <cell line: 8> -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-20 17:39:32.654 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2022-08-20 17:39:42.848 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '微信', ClassName: 'WechatMainWndForPC', ControlType: WindowControl}
+2022-08-20 19:32:20.431 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:21.450 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:22.462 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:23.474 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:26.190 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:27.212 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:28.229 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:29.258 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:30.274 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:31.299 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:32.324 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:33.350 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:34.375 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:35.398 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:36.425 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:37.443 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:38.466 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:39.495 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:40.514 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:41.538 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:42.554 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:43.582 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:44.609 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:45.634 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:46.658 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:47.687 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:48.711 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 19:32:49.733 3676601994.py[9] <cell line: 6> -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2022-08-20 23:45:44.659 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:45:56.099 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:46:07.135 1205397314.py[2] <cell line: 2> -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:46:19.351 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:46:29.734 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:47:18.708 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:47:30.192 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:47:45.285 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:47:56.708 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:49:06.665 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:49:17.954 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:49:50.537 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:50:02.090 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:50:12.408 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:51:02.482 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:51:13.657 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:51:30.395 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:51:54.411 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:52:45.805 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:53:18.606 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:54:00.890 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:54:13.036 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:55:08.458 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:55:19.846 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:55:49.823 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:56:02.214 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:57:12.576 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:59:01.635 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-20 23:59:29.445 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:00:08.501 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:00:27.715 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:00:38.771 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:01:08.377 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:01:20.351 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:01:32.744 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:01:56.775 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:02:10.237 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:03:42.156 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:03:54.256 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:04:05.928 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:04:19.722 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:04:31.329 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:04:56.153 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:05:11.624 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:05:24.589 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:05:38.761 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:05:51.049 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:06:02.963 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:06:20.701 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:06:32.041 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:06:43.127 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:06:55.147 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:07:57.347 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:08:09.179 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:08:26.149 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:08:38.480 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:08:50.546 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:09:47.934 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:10:08.553 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:10:34.079 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:13:00.143 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:13:12.283 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '发送(S)', ControlType: ButtonControl}
+2022-08-21 00:14:19.397 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:14:45.053 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '搜索', ControlType: ButtonControl}
+2022-08-21 00:19:31.769 pydevd_xml.py[309] var_to_xml -> 
